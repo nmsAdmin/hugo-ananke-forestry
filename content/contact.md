@@ -12,4 +12,4 @@ menu:
 ---
 Вы можете связаться со мной используя форму обратной связи.
 
-{{< form-contact action="action="https://formspree.io/f/mpzordjr""  >}}
+{{< form-contact action="https://formspree.io/f/mpzordjr"  >}}
