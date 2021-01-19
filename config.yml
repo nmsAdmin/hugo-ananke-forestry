@@ -1,11 +1,11 @@
 ---
 baseURL: http://example.org/
 languageCode: en-us
-title: Hugo Ananke Forestry Starter
+title: System Administrator Portfolio
 module:
   imports:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
-DefaultContentLanguage: en
+DefaultContentLanguage: ru
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ''
@@ -17,9 +17,9 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: System Administrator Portfolio Site
   facebook: ''
-  twitter: https://twitter.com/GoHugoIO
+  twitter: ''
   instagram: ''
   youtube: ''
   github: ''
