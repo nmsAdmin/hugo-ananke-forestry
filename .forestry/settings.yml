@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/post
-  label: Post
+  label: Достижения
   create: documents
   match: "*.md"
   exclude: _index.md
